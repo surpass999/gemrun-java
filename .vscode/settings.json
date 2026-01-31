@@ -1,0 +1,17 @@
+{
+  "files.eol": "\n",
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "path-intellisense.mappings": {
+    "@": "${workspaceRoot}/src",
+    "@/": "${workspaceRoot}/src/",
+    "~": "${workspaceRoot}",
+    "~/": "${workspaceRoot}/"
+  },
+  "typescript.suggest.autoImports": true,
+  "typescript.preferences.includePackageJsonAutoImports": "auto",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.configuration.updateBuildConfiguration": "interactive"
+}

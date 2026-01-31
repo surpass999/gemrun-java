@@ -1,0 +1,9 @@
+web-ui/
+node_modules/
+.DS_Store
+.idea/
+.target
+
+# ignore build artifacts
+**/target/
+server/target/*

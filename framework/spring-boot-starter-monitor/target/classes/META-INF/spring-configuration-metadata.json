@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "base.tracer",
+      "type": "cn.gemrun.base.framework.tracer.config.TracerProperties",
+      "sourceType": "cn.gemrun.base.framework.tracer.config.TracerProperties"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

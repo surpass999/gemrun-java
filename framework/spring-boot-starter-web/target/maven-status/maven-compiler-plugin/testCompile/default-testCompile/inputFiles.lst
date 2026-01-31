@@ -1,0 +1,4 @@
+/www/wwwroot/gemrun-base/framework/spring-boot-starter-web/src/test/java/cn/gemrun/base/framework/desensitize/core/DesensitizeTest.java
+/www/wwwroot/gemrun-base/framework/spring-boot-starter-web/src/test/java/cn/gemrun/base/framework/desensitize/core/annotation/Address.java
+/www/wwwroot/gemrun-base/framework/spring-boot-starter-web/src/test/java/cn/gemrun/base/framework/desensitize/core/handler/AddressHandler.java
+/www/wwwroot/gemrun-base/framework/spring-boot-starter-web/src/test/java/cn/gemrun/base/framework/encrypt/ApiEncryptTest.java
